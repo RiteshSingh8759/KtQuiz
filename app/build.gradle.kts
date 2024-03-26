@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.kLoc.ktquizz1"
+    namespace = "com.kloc.ktadmin"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.kLoc.ktquizz1"
+        applicationId = "com.kloc.ktadmin"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -95,4 +95,6 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.0")
     implementation("io.coil-kt:coil-compose:2.6.0")
+    //--------Lottie Dependency--------------------------------
+    implementation ("com.airbnb.android:lottie-compose:6.1.0")
 }

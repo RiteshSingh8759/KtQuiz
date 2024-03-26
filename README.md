@@ -1,2 +1,0 @@
-# KtQuiz
-Quiz Application

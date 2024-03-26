@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "kTQuizz1"
+rootProject.name = "kTadmin"
 include(":app")
  
