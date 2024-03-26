@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714605832462",
+    "project_id": "ktquizz1",
+    "storage_bucket": "ktquizz1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714605832462:android:73a04c08c2ac0d4ec64f5f",
+        "android_client_info": {
+          "package_name": "com.kLoc.ktquizz1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDUHRSjNOhO-17a2D2maSiOQ1J7eYWL3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
